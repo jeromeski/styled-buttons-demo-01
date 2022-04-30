@@ -8,13 +8,14 @@ export default function Home() {
         variant="outlined"
         type="button"
         className="add-button"
+        mb="4"
       >
         Outlined Button
       </Button>
-      <Button size="big" variant="primary" type="button">
+      <Button size="small" variant="primary" type="button">
         Primary Button
       </Button>
-      <Button size="big" variant="secondary" type="button">
+      <Button size="mid" variant="secondary" type="button">
         Secondary Button
       </Button>
       <Button size="big" variant="text" type="button">
